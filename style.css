@@ -1,0 +1,49 @@
+.container {
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-wrap: wrap;
+    text-align: center;
+    justify-content: center;
+}
+
+body {
+    background-color: #F875AA;
+}
+
+
+h1 {
+    font-size: 5rem;
+    color: #FDEDED;
+    padding: 0;
+    margin: 1rem;
+}
+
+p{
+    font-size: 2rem;
+    color: #FDEDED;
+    margin: 0;
+}
+
+.dice {
+    width: 25rem;
+    margin: 1rem;
+}
+
+.btn {
+    margin: 2rem 20rem 3rem 20rem ;
+    text-align: center;
+    justify-content: center;
+}
+
+button {
+    width: 10rem;
+    padding: 10px;
+    border-style: none;
+    border-radius: 25px;
+}
+
+footer {
+    padding-bottom: 1rem;
+    margin: 0;
+}
